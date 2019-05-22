@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThucTapNhom", "ThucTapNhom\ThucTapNhom.csproj", "{A8EAA534-FE95-49D8-A39D-2493AD9DB2C8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThucTapNhom", "ThucTapNhom\ThucTapNhom.csproj", "{57A30752-9ED0-4E4A-B705-D0478BC5BC00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A8EAA534-FE95-49D8-A39D-2493AD9DB2C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A8EAA534-FE95-49D8-A39D-2493AD9DB2C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A8EAA534-FE95-49D8-A39D-2493AD9DB2C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A8EAA534-FE95-49D8-A39D-2493AD9DB2C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57A30752-9ED0-4E4A-B705-D0478BC5BC00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57A30752-9ED0-4E4A-B705-D0478BC5BC00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57A30752-9ED0-4E4A-B705-D0478BC5BC00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57A30752-9ED0-4E4A-B705-D0478BC5BC00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {98823322-A8E6-4D2B-83DC-3D5D0048D9CA}
+		SolutionGuid = {E2C8F235-1998-4AF2-AF9D-3164F0EA6067}
 	EndGlobalSection
 EndGlobal
