@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\ThucTapNhom\ThucTapNhom\bin\Debug\ThucTapNhom.exe.config
+C:\Users\Admin\source\repos\ThucTapNhom\ThucTapNhom\bin\Debug\ThucTapNhom.exe
+C:\Users\Admin\source\repos\ThucTapNhom\ThucTapNhom\bin\Debug\ThucTapNhom.pdb
+C:\Users\Admin\source\repos\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.Properties.Resources.resources
+C:\Users\Admin\source\repos\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.exe
+C:\Users\Admin\source\repos\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.pdb
+C:\Users\Admin\source\repos\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.ChiTietPhieuXuat.resources
+C:\Users\Admin\source\repos\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.PhieuXuat.resources
+C:\Users\Admin\source\repos\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.BaoCaoDoanhThu.resources
+C:\Users\Admin\source\repos\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.DanhMuc.resources
